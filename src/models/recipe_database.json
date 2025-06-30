@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Pancakes",
+    "ingredients": ["flour", "eggs", "milk", "sugar"],
+    "steps": [
+      "Mix flour, sugar, and eggs in a bowl.",
+      "Gradually add milk while stirring.",
+      "Heat a pan and pour the batter.",
+      "Cook until bubbles form, then flip and cook the other side.",
+      "Serve with syrup."
+    ]
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "ingredients": ["flour", "sugar", "eggs", "butter", "chocolate chips"],
+    "steps": [
+      "Preheat oven to 180C.",
+      "Mix flour and sugar in a bowl.",
+      "Add butter and eggs, mix well.",
+      "Stir in chocolate chips.",
+      "Scoop dough onto a tray and bake for 12 minutes."
+    ]
+  },
+  {
+    "name": "Banana Cake",
+    "ingredients": ["flour", "eggs", "sugar", "banana", "baking powder"],
+    "steps": [
+      "Mash the bananas in a bowl.",
+      "Add sugar and eggs, stir well.",
+      "Fold in flour and baking powder.",
+      "Pour into a cake pan.",
+      "Bake at 170C for 30 minutes."
+    ]
+  },
+  {
+    "name": "French Toast",
+    "ingredients": ["bread", "eggs", "milk", "sugar"],
+    "steps": [
+      "Beat eggs, sugar, and milk in a bowl.",
+      "Dip bread slices in the mixture.",
+      "Fry on a pan until golden brown on both sides.",
+      "Serve with honey or syrup."
+    ]
+  },
+  {
+    "name": "Lemon ki",
+    "ingredients": ["Lemon", "sugar", "eggs", "butter", "chocolate chips"],
+    "steps": [
+      "Preheat oven to 180C.",
+      "Mix flour and sugar in a bowl.",
+      "Add butter and eggs, mix well.",
+      "Stir in chocolate chips.",
+      "Scoop dough onto a tray and bake for 12 minutes."
+    ]
+  },
+  {
+    "name": "Lemonnnnnn",
+    "ingredients": ["Lemon", "sugar", "eggs", "butter", "chocolate chips"],
+    "steps": [
+      "Beat eggs, sugar, and milk in a bowl.",
+      "Dip bread slices in the mixture.",
+      "Fry on a pan until golden brown on both sides.",
+      "Serve with honey or syrup."
+    ]
+  }
+]

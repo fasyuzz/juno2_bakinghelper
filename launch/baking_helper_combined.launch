@@ -1,0 +1,3 @@
+<launch>
+  <node name="mode_selector" pkg="juno2_baking_helper" type="mode_selector.py" output="screen" />
+</launch>
