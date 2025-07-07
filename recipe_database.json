@@ -2,8 +2,8 @@
   {
     "name": "Sponge Cake",
     "ingredients": ["eggs", "sugar", "flour"],
-    "ingredient_details": "To make a sponge cake, you need 4 large eggs separated, 60 grams caster sugar, and 40 grams all-purpose flour.",
     "steps": [
+      "To make a sponge cake, you need 4 large eggs separated, 60 grams caster sugar, and 40 grams all-purpose flour.",
       "Step 1: Preheat the oven to 350°F or 180°C.",
       "Step 2: In a large bowl, add the egg yolks and half of the sugar (30 grams). Whisk together until completely combined.",
       "Step 3: Sift in the flour. Whisk together until a smooth paste forms.",
@@ -18,8 +18,8 @@
   {
     "name": "Chocolate Cake",
     "ingredients": ["flour", "cocoa powder", "sugar", "milk"],
-    "ingredient_details": "To make a chocolate cake, you need 1 1/2 cups (187 g) self-rising flour, 1/2 cup (52 g) unsweetened cocoa powder, 1 cup (195 g) granulated white sugar, and 1 1/3 cups (10.6 oz) whole milk.",
     "steps": [
+      "To make a chocolate cake, you need 1 1/2 cups (187 g) self-rising flour, 1/2 cup (52 g) unsweetened cocoa powder, 1 cup (195 g) granulated white sugar, and 1 1/3 cups (10.6 oz) whole milk.",
       "Step 1: Preheat the oven to 350°F or 180°C.",
       "Step 2: In a large mixing bowl, add flour and cocoa powder. Whisk until evenly combined.",
       "Step 3: Add in sugar and whisk until combined.",
@@ -31,8 +31,8 @@
   {
     "name": "Chocolate Chip Cookies",
     "ingredients": ["butter", "sugar", "flour", "baking soda", "salt", "vanilla extract", "chocolate"],
-    "ingredient_details": "To make chocolate chip cookies, you need 250 g butter, 1 ½ cups sugar, 2 cups flour, 1 tea spoon baking soda, ½ tea spoon salt, 1 tea spoon vanilla extract, 2 cups chocolate chips.",
     "steps": [
+      "To make chocolate chip cookies, you need 250 g butter, 1 ½ cups sugar, 2 cups flour, 1 tea spoon baking soda, ½ tea spoon salt, 1 tea spoon vanilla extract, 2 cups chocolate chips.",
       "Step 1: You’re going to start by melting the butter. The butter shouldn’t be sizzling hot.Once the butter has melted, whisk in the sugars until well-combined.",
       "Step 2: Mix in the vanilla extract and the egg.",
       "Step 3: Add the flour, baking soda, and salt. Stir in just until combined. You don’t want to overmix the dough.",
@@ -44,8 +44,8 @@
   {
     "name": "Banana Cake",
     "ingredients": ["banana", "flour", "butter", "baking powder", "sugar"],
-    "ingredient_details": "To make a banana cake, you need 2 bananas, 1 cup of all-purpose flour, 100g of unsalted butter, 1 teaspoon of baking powder, and ½ cup of sugar.",
     "steps": [
+      "To make a banana cake, you need 2 bananas, 1 cup of all-purpose flour, 100g of unsalted butter, 1 teaspoon of baking powder, and ½ cup of sugar.",
       "Step 1: Preheat oven to 175°C or 350°F. Grease a small cake tin.",
       "Step 2: Mash bananas in a bowl until smooth.",
       "Step 3: Cream butter and sugar together until light and fluffy.",
@@ -59,8 +59,8 @@
   {
     "name": "Carrot Cake",
     "ingredients": ["flour", "baking soda", "sugar", "oil", "salt", "cinnamon", "vanilla extract", "eggs", "carrot"],
-    "ingredient_details": "To make a carrot cake, you need 1 ½ cups flour, 1 teaspoon baking soda, 1 ¼ cups sugar, ½ cup oil, 1 teaspoon salt, 1 teaspoon cinnamon powder, 1 teaspoon vanilla extract, 2 eggs, 1 cup carrots, and 1 cup walnuts.",
     "steps": [
+      "To make a carrot cake, you need 1 ½ cups flour, 1 teaspoon baking soda, 1 ¼ cups sugar, ½ cup oil, 1 teaspoon salt, 1 teaspoon cinnamon powder, 1 teaspoon vanilla extract, 2 eggs, 1 cup carrots, and 1 cup walnuts.",
       "Step 1: Whisk flour, baking soda, salt, and cinnamon in a medium bowl until very well blended.",
       "Step 2: In a separate bowl, whisk the oil, granulated sugar, brown sugar, and vanilla.",
       "Step 3: Add the eggs, one at a time, whisking after each one.",
@@ -75,8 +75,8 @@
   {
     "name": "Butter Cake",
     "ingredients": ["flour", "baking powder", "salt", "sugar", "butter", "eggs", "vanilla extract", "milk"],
-    "ingredient_details": "To make a butter cake, you need 1 ½ cups flour, 1 tsp baking powder, 1 cup sugar, 1 cup butter, 4 eggs, 1 teaspoon vanilla extract.",
     "steps": [
+      "To make a butter cake, you need 1 ½ cups flour, 1 tsp baking powder, 1 cup sugar, 1 cup butter, 4 eggs, 1 teaspoon vanilla extract.",
       "Step 1: Sift flour, baking powder, and salt together in a large bowl.",
       "Step 2: Beat sugar and butter together in a large bowl with an electric mixer until light and fluffy.",
       "Step 3: Add eggs one at a time, beating well after each addition. Beat in vanilla extract.",
@@ -90,8 +90,8 @@
   {
     "name": "Red Velvet Cake",
     "ingredients": ["flour", "baking soda", "butter", "cocoa powder", "buttermilk", "red food coloring", "cream cheese", "sugar"],
-    "ingredient_details": "To make a red velvet cake, you need 2 cups of flour, 1 teaspoon baking soda, ⅔ cup butter, ¼ cup cocoa powder, 1 cup buttermilk, 2 teaspoon red food coloring, 340 grams cream cheese, and 1 ½ cups sugar.",
     "steps": [
+      "To make a red velvet cake, you need 2 cups of flour, 1 teaspoon baking soda, ⅔ cup butter, ¼ cup cocoa powder, 1 cup buttermilk, 2 teaspoon red food coloring, 340 grams cream cheese, and 1 ½ cups sugar.",
       "Step 1: In a medium bowl, sift the flour, salt, and baking soda together.",
       "Step 2: Cream the butter on medium speed in the bowl of a stand mixer fitted with a paddle attachment. Add in sugar and mix on medium until light and fluffy. Add the eggs in one at a time, beating each until well combined.",
       "Step 3: Beat in the vanilla, then sift the cocoa powder into the butter mixture. Beat just until combined. Scrape down the bowl.",
@@ -106,8 +106,8 @@
   {
     "name": "Brownies",
     "ingredients": ["sugar", "flour", "cocoa powder", "chocolate", "salt", "eggs", "oil", "water", "vanilla extract"],
-    "ingredient_details": "To make brownies, you need 1 and 1/2 cups granulated sugar, 3/4 cup all-purpose flour, 2/3 cup cocoa powder, sifted if lumpy, 1/2 cup powdered sugar, sifted if lumpy, 1/2 cup dark chocolate chips, 3/4 teaspoons sea salt, 2 large eggs, 1/2 cup canola oil or extra-virgin olive oil, 2 tablespoons water, and 1/2 teaspoon vanilla.",
     "steps": [
+      "To make brownies, you need 1 and 1/2 cups granulated sugar, 3/4 cup all-purpose flour, 2/3 cup cocoa powder, sifted if lumpy, 1/2 cup powdered sugar, sifted if lumpy, 1/2 cup dark chocolate chips, 3/4 teaspoons sea salt, 2 large eggs, 1/2 cup canola oil or extra-virgin olive oil, 2 tablespoons water, and 1/2 teaspoon vanilla.",
       "Step 1: Preheat the oven to 325°F or 163°C. Lightly spray an 8x8 baking dish (not a 9x9 dish or your brownies will overcook) with cooking spray and line it with parchment paper. Spray the parchment paper.",
       "Step 2: In a medium bowl, combine the sugar, flour, cocoa powder, powdered sugar, chocolate chips, and salt.",
       "Step 3: In a large bowl, whisk together the eggs, olive oil, water, and vanilla.",
@@ -121,8 +121,8 @@
   {
     "name": "Lemon Cookies",
     "ingredients": ["flour", "butter", "sugar", "eggs", "lemon", "baking powder"],
-    "ingredient_details": "To make lemon cookies, you need 1 ½ cups of all purpose flour, ½ cup butter, ½ cup sugar, 1 egg, 1 lemon, and ½ tsp baking powder.",
     "steps": [
+      "To make lemon cookies, you need 1 ½ cups of all purpose flour, ½ cup butter, ½ cup sugar, 1 egg, 1 lemon, and ½ tsp baking powder.",
       "Step 1: Preheat oven to 175°C or 350°F. Line a baking tray with parchment paper.",
       "Step 2: Zest the lemon using a fine grater or zester. Grate only the yellow part (about 1 tsp);. Juice the lemon by cutting it in half and squeezing it (using your hands or a citrus squeezer). You'll need about 1 tablespoon of juice.",
       "Step 3: In a mixing bowl, cream the softened butter and sugar together until light and fluffy (about 2–3 minutes).",
@@ -137,8 +137,8 @@
   {
     "name": "Walnut Cake",
     "ingredients": ["butter", "sugar", "brown sugar", "eggs", "flour", "walnuts", "baking powder", "salt", "cinnamon", "coffee", "milk"],
-    "ingredient_details": "To make a walnut cake, you need 220 grams butter soft, 70 grams sugar, 100 grams brown sugar, 4 eggs medium, 150 grams all-purpose flour, 200 grams ground walnuts, 2 teaspoons baking powder, 1 pinch salt, ½ teaspoon cinnamon, 3 tablespoons cooled coffee or milk, and walnut kernels for decoration.",
     "steps": [
+      "To make a walnut cake, you need 220 grams butter soft, 70 grams sugar, 100 grams brown sugar, 4 eggs medium, 150 grams all-purpose flour, 200 grams ground walnuts, 2 teaspoons baking powder, 1 pinch salt, ½ teaspoon cinnamon, 3 tablespoons cooled coffee or milk, and walnut kernels for decoration.",
       "Step 1: Preheat the oven to 350°F or 175°C.",
       "Step 2: Grease the springform pan and dust it with flour.",
       "Step 3: Make a small cup of coffee.",
