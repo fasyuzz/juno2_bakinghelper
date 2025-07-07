@@ -1,7 +1,7 @@
 [
   {
     "name": "Sponge Cake",
-    "ingredients": ["eggs", "sugar", "flour"],
+    "ingredients": ["egg", "sugar", "flour"],
     "steps": [
       "To make a sponge cake, you need 4 large eggs separated, 60 grams caster sugar, and 40 grams all-purpose flour.",
       "Preheat the oven to 350°F or 180°C.",
@@ -58,7 +58,7 @@
   },
   {
     "name": "Carrot Cake",
-    "ingredients": ["flour", "baking soda", "sugar", "oil", "salt", "cinnamon", "vanilla extract", "eggs", "carrot"],
+    "ingredients": ["flour", "baking soda", "sugar", "oil", "salt", "cinnamon", "vanilla extract", "egg", "carrot"],
     "steps": [
       "To make a carrot cake, you need 1 ½ cups flour, 1 teaspoon baking soda, 1 ¼ cups sugar, ½ cup oil, 1 teaspoon salt, 1 teaspoon cinnamon powder, 1 teaspoon vanilla extract, 2 eggs, 1 cup carrots, and 1 cup walnuts.",
       "Whisk flour, baking soda, salt, and cinnamon in a medium bowl until very well blended.",
@@ -74,7 +74,7 @@
   },
   {
     "name": "Butter Cake",
-    "ingredients": ["flour", "baking powder", "salt", "sugar", "butter", "eggs", "vanilla extract", "milk"],
+    "ingredients": ["flour", "baking powder", "salt", "sugar", "butter", "egg", "vanilla extract", "milk"],
     "steps": [
       "To make a butter cake, you need 1 ½ cups flour, 1 tsp baking powder, 1 cup sugar, 1 cup butter, 4 eggs, 1 teaspoon vanilla extract.",
       "Sift flour, baking powder, and salt together in a large bowl.",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Brownies",
-    "ingredients": ["sugar", "flour", "cocoa powder", "chocolate", "salt", "eggs", "oil", "water", "vanilla extract"],
+    "ingredients": ["sugar", "flour", "cocoa powder", "chocolate", "salt", "egg", "oil", "water", "vanilla extract"],
     "steps": [
       "To make brownies, you need 1 and 1/2 cups granulated sugar, 3/4 cup all-purpose flour, 2/3 cup cocoa powder, sifted if lumpy, 1/2 cup powdered sugar, sifted if lumpy, 1/2 cup dark chocolate chips, 3/4 teaspoons sea salt, 2 large eggs, 1/2 cup canola oil or extra-virgin olive oil, 2 tablespoons water, and 1/2 teaspoon vanilla.",
       "Preheat the oven to 325°F or 163°C. Lightly spray an 8x8 baking dish (not a 9x9 dish or your brownies will overcook) with cooking spray and line it with parchment paper. Spray the parchment paper.",
@@ -120,7 +120,7 @@
   },
   {
     "name": "Lemon Cookies",
-    "ingredients": ["flour", "butter", "sugar", "eggs", "lemon", "baking powder"],
+    "ingredients": ["flour", "butter", "sugar", "egg", "lemon", "baking powder"],
     "steps": [
       "To make lemon cookies, you need 1 ½ cups of all purpose flour, ½ cup butter, ½ cup sugar, 1 egg, 1 lemon, and ½ tsp baking powder.",
       "Preheat oven to 175°C or 350°F. Line a baking tray with parchment paper.",
@@ -136,7 +136,7 @@
   },
   {
     "name": "Walnut Cake",
-    "ingredients": ["butter", "sugar", "brown sugar", "eggs", "flour", "walnuts", "baking powder", "salt", "cinnamon", "coffee", "milk"],
+    "ingredients": ["butter", "sugar", "brown sugar", "egg", "flour", "walnuts", "baking powder", "salt", "cinnamon", "coffee", "milk"],
     "steps": [
       "To make a walnut cake, you need 220 grams butter soft, 70 grams sugar, 100 grams brown sugar, 4 eggs medium, 150 grams all-purpose flour, 200 grams ground walnuts, 2 teaspoons baking powder, 1 pinch salt, ½ teaspoon cinnamon, 3 tablespoons cooled coffee or milk, and walnut kernels for decoration.",
       "Preheat the oven to 350°F or 175°C.",
