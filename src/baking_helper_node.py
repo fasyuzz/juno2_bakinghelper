@@ -11,6 +11,7 @@ from app.ingredient_parser import parse_ingredients
 from app.menu_suggester import suggest_menus
 from app.instruction_manager import InstructionManager
 
+# recipe file
 recipe_file = os.path.join(os.path.dirname(__file__), "../models/recipe_database.json")
 
 def load_all_recipes():
@@ -23,10 +24,13 @@ def load_all_recipes():
         return []
 
 def baking_helper():
-    rospy.init_node("baking_helper_node")
+    rospy.init_node("baking_helper_speech_node")
     engine = pyttsx3.init()
     rate = engine.getProperty('rate')
     engine.setProperty('rate', rate - 50)
+
+    # define publisher
+    pub = rospy.Publisher("/user_ingredients", String, queue_size=10)
 
     while not rospy.is_shutdown():
         rospy.loginfo("Juno2: Please speak the ingredients.")
@@ -38,6 +42,10 @@ def baking_helper():
 
         ingredients = parse_ingredients(spoken_text)
         rospy.loginfo(f"Parsed ingredients: {ingredients}")
+
+        # publish the recognized ingredients
+        pub.publish(json.dumps(ingredients))
+        rospy.loginfo(f"Published ingredients to /user_ingredients: {ingredients}")
 
         menus = suggest_menus(ingredients)
         if not menus:
@@ -88,3 +96,4 @@ if __name__ == "__main__":
         baking_helper()
     except rospy.ROSInterruptException:
         pass
+
