@@ -46,6 +46,11 @@ $ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 $ cd ~/catkin_ws/src/
 $ git clone https://github.com/fasyuzz/juno2_bakinghelper.git
 ```
+### First-time user setup
+```
+$ cd juno2_bakinghelper/src
+$ chmod +x *.py
+```
 ### Install dependencies
 ```
 $ pip install -r juno2_bakinghelper/requirements.txt
