@@ -8,58 +8,58 @@ This project is a ROS-based interactive assistant designed to help users follow 
 
 ## Project Setup 🚀
 
-### 📌 Prerequisites
+### Prerequisites
 
 - Ubuntu 20.04 or 22.04
-- ROS Noetic or ROS 2 (e.g., Foxy/Humble)
+- ROS Noetic
 - Python 3.8+
 - Microphone and camera access
 
-### 📌 Create a ROS workspace
+### Create a ROS workspace
 ```
 $ mkdir -p ~/catkin_ws/src
 $ cd ~/catkin_ws/
 $ catkin_make
 ```
 
-### 📌 Create a ROS package
+### Create a ROS package
 ```
 $ cd ~/catkin_ws/src/
 $ catkin_create_pkg juno2_bakinghelper roscpp rospy std_msgs
 ```
 
-### 📌 Build catkin workspace
+### Build catkin workspace
 ```
 $ cd ..
 $ catkin_make
 ```
 
-### 📌 Source setup file
+### Source setup file
 ```
 $ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 ```
 
 ## User Manual
 
-### 📌 Clone the project repository from GitHub
+### Clone the project repository from GitHub
 ```
 $ cd ~/catkin_ws/src/
 $ git clone https://github.com/fasyuzz/juno2_bakinghelper.git
 ```
-### 📌 Install dependencies
+### Install dependencies
 ```
 $ pip install -r juno2_bakinghelper/requirements.txt
 ```
-### 📌 Build catkin workspace
+### Build catkin workspace
 ```
 $ cd ..
 $ catkin_make
 ```
-### 📌 To launch the robot application, open 2 terminals and run the following commands:
+### To launch the robot application, open 2 terminals and run the following commands:
 - Terminal 1:
 ```
 $ roscore
 ```
 - Terminal 2:
 ```
-$ roslaunch juno2_bakinghelper bakinghelper.launch
+$ roslaunch juno2_bakinghelper baking_helper_combined.launch
