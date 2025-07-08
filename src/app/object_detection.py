@@ -53,7 +53,8 @@ class IngredientDetector:
             rospy.logwarn("No frame available yet.")
 
     def get_detected(self):
-        return list(self.detected)
+        detected_lower = [item.lower() for item in list(self.detected)]
+        return detected_lower
 
 if __name__ == "__main__":
     rospy.init_node("ingredient_detector")
@@ -63,5 +64,4 @@ if __name__ == "__main__":
         if user_input == "q":
             break
         detector.capture_and_detect()
-
 

@@ -11,7 +11,7 @@ from app.my_speech_recognition import recognize_speech
 from std_msgs.msg import String
 
 # recipe file path
-recipe_file = os.path.join(os.path.dirname(__file__), "../models/recipe_database.json")
+recipe_file = os.path.join(os.path.dirname(__file__), "models/recipe_database.json")
 
 def load_all_recipes():
     try:

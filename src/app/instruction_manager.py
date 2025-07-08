@@ -43,7 +43,9 @@ class InstructionManager:
                     idx += 1
                     break
                 elif "repeat" in command:
-                    # repeat same step
+                    rospy.loginfo(step_text)
+                    self.engine.say(step_text)
+                    self.engine.runAndWait()
                     continue
                 else:
                     self.engine.say("Sorry, I did not understand.")
