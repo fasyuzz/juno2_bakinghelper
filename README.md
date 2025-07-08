@@ -55,7 +55,7 @@ $ chmod +x baking_helper_combined.launch
 ```
 ### Install dependencies
 ```
-$ pip install -r juno2_bakinghelper/requirements.txt
+$ pip install -r juno2_baking_helper/requirements.txt
 ```
 ### Build catkin workspace
 ```
