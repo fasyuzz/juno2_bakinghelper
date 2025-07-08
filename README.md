@@ -48,8 +48,10 @@ $ git clone https://github.com/fasyuzz/juno2_bakinghelper.git
 ```
 ### First-time user setup
 ```
-$ cd juno2_bakinghelper/src
+$ cd juno2_baking_helper/src
 $ chmod +x *.py
+$ cd juno2_baking_helper/launch
+$ chmod +x baking_helper_combined.launch
 ```
 ### Install dependencies
 ```
@@ -67,4 +69,4 @@ $ roscore
 ```
 - Terminal 2:
 ```
-$ roslaunch juno2_bakinghelper baking_helper_combined.launch
+$ roslaunch juno2_baking_helper baking_helper_combined.launch
