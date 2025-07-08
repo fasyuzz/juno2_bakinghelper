@@ -1,3 +1,11 @@
-speechrecognition
-pyttsx3
-vosk
+ultralytics==8.1.27
+opencv-python==4.8.0.76
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+pyaudio==0.2.13
+
+# ROS-related dependencies (not installable via pip)
+# Install via ROS: sudo apt install ros-<distro>-rospy ros-<distro>-cv-bridge
+# rospy
+# cv_bridge
+              
